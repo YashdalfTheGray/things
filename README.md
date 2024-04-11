@@ -11,3 +11,7 @@ Two versions, one with the `1/1` offset so that other tags can be added to the l
 ## OmTag
 
 This one was a request from the family members. I recreated a design that I saw on Thingiverse a while ago but couldn't find it again when I looked for it when the family request came in. It's just a little tag with [the ॐ](https://en.wikipedia.org/wiki/Om) on it.
+
+## AmiiboHolder
+
+This is a remix of [this project](https://www.thingiverse.com/thing:754095) on thingiverse. I wanted something that I would be able to stack in a tiered formation and interlock with each other. So I added pins to the bottom and top of this project and created a spacer (so that you can tier) and a cap (so that you can use it for other things besides an Amiibo).
