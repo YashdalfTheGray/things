@@ -15,3 +15,7 @@ This one was a request from the family members. I recreated a design that I saw 
 ## AmiiboHolder
 
 This is a remix of [this project](https://www.thingiverse.com/thing:754095) on thingiverse. I wanted something that I would be able to stack in a tiered formation and interlock with each other. So I added pins to the bottom and top of this project and created a spacer (so that you can tier) and a cap (so that you can use it for other things besides an Amiibo).
+
+## PlayerDashboardCarrier
+
+This one's a simple one. It's just a box that can hold 4 Gloomhaven player dashboards, specifically [these ones](https://www.thingiverse.com/thing:3024359) on thingiverse. because of their shape, they're sorta awkward to carry alongside the game so this box helps with that.
