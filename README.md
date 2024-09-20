@@ -19,3 +19,7 @@ This is a remix of [this project](https://www.thingiverse.com/thing:754095) on t
 ## PlayerDashboardCarrier
 
 This one's a simple one. It's just a box that can hold 4 Gloomhaven player dashboards, specifically [these ones](https://www.thingiverse.com/thing:3024359) on thingiverse. because of their shape, they're sorta awkward to carry alongside the game so this box helps with that.
+
+## Circuits
+
+This is a replication of the Factorio {Green|Red|Blue} circuits but in real life. I'm also using this project to test out parametric 3D modeling on the iPad and it seems like most people recommend something called Shapr3D.
