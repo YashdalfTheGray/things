@@ -22,4 +22,4 @@ This one's a simple one. It's just a box that can hold 4 Gloomhaven player dashb
 
 ## Circuits
 
-This is a replication of the Factorio {Green|Red|Blue} circuits but in real life. I'm also using this project to test out parametric 3D modeling on the iPad and it seems like most people recommend something called Shapr3D.
+This is a replication of the Factorio {Green|Red|Blue} circuits but in real life. I'm also using this project to test out parametric 3D modeling on the iPad and it seems like most people recommend something called Shapr3D. The additional thing we're testing is if 3mf is a better format since Shapr3D can also export 3mf and my Bambu printer understands 3mf, well, the slicer understand 3mf.
