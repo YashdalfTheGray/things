@@ -23,3 +23,7 @@ This one's a simple one. It's just a box that can hold 4 Gloomhaven player dashb
 ## Circuits
 
 This is a replication of the Factorio {Green|Red|Blue} circuits but in real life. I'm also using this project to test out parametric 3D modeling on the iPad and it seems like most people recommend something called Shapr3D. The additional thing we're testing is if 3mf is a better format since Shapr3D can also export 3mf and my Bambu printer understands 3mf, well, the slicer understand 3mf.
+
+## Deck box
+
+This is a project that I used OpenSCAD for and had some reasonable success. The SCAD file is included in the repo but so is the .3mf so that it is ready to print. This deck box is meant to hold one whole double sleeved MTG commander deck or like 10 or so standard top loaders with a lot of wasted space. Or, just 100 MTG sized double sleeved cards.
